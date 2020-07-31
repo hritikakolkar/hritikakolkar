@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on any AI platform 
 - 🤔 I’m looking for help with an Internship in Machine Learning
 - 💬 Ask me about Data Science
-- 📫 Reach me through : <a href="https://www.linkedin.com/in/hritikakolkar/">Linkedin</a>
-- 🔎 Online Presence : <a href="https://www.hackerrank.com/hritikakolkar/">HackerRank</a> <a href="https://www.kaggle.com/hritikakolkar/">Kaggle</a>
+- 📫 Reach me through : <a href="https://www.linkedin.com/in/hritikakolkar/" target="_blank">Linkedin</a>
+- 🔎 Online Presence : <a href="https://www.hackerrank.com/hritikakolkar/" target="_blank">HackerRank</a> <a href="https://www.kaggle.com/hritikakolkar/" target="_blank">Kaggle</a>
 - ⚡ Fun fact: I know Some Frontend Technology
