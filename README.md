@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with an Internship in Machine Learning
 - 💬 Ask me about Data Science
 - 📫 Reach me through : <a href="https://www.linkedin.com/in/hritikakolkar/">Linkedin</a>
-- 🔎 Online Presence :  ![alt text](http://url/to/img.png),
+- 🔎 Online Presence :  ![Hackerrank](https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg),
 - ⚡ Fun fact: I know Some Frontend Technology
