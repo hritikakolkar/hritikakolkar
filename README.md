@@ -8,5 +8,6 @@
 - 🔎 Online Presence : <a href="https://www.hackerrank.com/hritikakolkar/" target="_blank">HackerRank</a> <a href="https://www.kaggle.com/hritikakolkar/" target="_blank">Kaggle</a>
 - ⚡ Fun fact: I know Some Frontend Technology
 
+Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{hritikakolkar}/count.svg)
