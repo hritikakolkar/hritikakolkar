@@ -7,3 +7,6 @@
 - 📫 Reach me through : <a href="https://www.linkedin.com/in/hritikakolkar/" target="_blank">Linkedin</a>
 - 🔎 Online Presence : <a href="https://www.hackerrank.com/hritikakolkar/" target="_blank">HackerRank</a> <a href="https://www.kaggle.com/hritikakolkar/" target="_blank">Kaggle</a>
 - ⚡ Fun fact: I know Some Frontend Technology
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
