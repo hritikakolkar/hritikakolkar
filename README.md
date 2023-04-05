@@ -8,7 +8,3 @@
 - 🔎 Online Presence : <a href="https://www.hackerrank.com/hritikakolkar/" target="_blank">HackerRank</a> |  <a href="https://www.kaggle.com/hritikakolkar/" target="_blank">Kaggle</a>  |  <a href="https://leetcode.com/hritikakolkar/" target="_blank">Leetcode</a>
 
 [![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikakolkar&show_icons=true&theme=dark)](https://github.com/hritikakolkar/)
-
-Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/{hritikakolkar}/count.svg)
