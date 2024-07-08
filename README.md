@@ -1,4 +1,4 @@
-![MarineGEO circle logo](Banner02.png "Banner")
+![MarineGEO circle logo](Banner.png "Banner")
 ### Hi there 👋 I'M HRITIK AKOLKAR.
 - 🔭 I’m currently working on Machine Learning and a Kaggle 1X Expert.  
 - 🌱 I’m currently learning Natural Language Processing.
